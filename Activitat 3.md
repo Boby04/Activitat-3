@@ -7,6 +7,7 @@ Per fer aquesta activitat comptem amb que **ja s'ha configurat el servei Ownclou
 ```
 apache2ctl -S
 ```
+![](2.png)
 
 **RESPOSTA**
 
@@ -89,8 +90,19 @@ Sí, Owncloud compta amb antivirus, es diu *"ClamAV"*
 **RESPOSTA**
 
 **1.**
-2.
-3.
-4.
+
+![](foto.png)
+
+**2.**
+
+![](gmail.png)
+
+**3.**
+
+![](idioma.png)
+
+**4.**
+
+![](versio.png)
 
 
