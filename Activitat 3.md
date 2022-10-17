@@ -45,31 +45,48 @@ solució. Aquest és el nivell més alt de dades secret combinat amb el més alt
 
 
 - **Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?**
+
 Perquè es fàcil d'utilitzar i molt eficient a l'hora de mantindre els arxius segurs, i sobretot per a les empreses, això és un problema, perquè l'emmagatzematge sensible documents i dades d'usuari aporta una sèrie de riscos, amenaces i responsabilitats. Amb ownCloud, el vostre personal aconsegueix usabilitat i productivitat funcions a l'igual que els proveïdors de núvols públics, però mantens el control de la preciosa companyia
 dades.
 
 - **Això passa a tots els països?**
+
 Sí això passa a la majoria dels països
 
 - **Quina és la llicència d'OWncloud Enterprise?**
+
+La llicència per a Owncloud Enterprise és *"ownCloud Commercial License"*
+
 - **I la d'Owncloud Standard?**
+
+La llicència per a Owncloud Standard és *"AGPLv3"*
+
 - **Es poden veure videos en Streaming directament des de Owncloud?**
+
 Sí, es poden veure videos en Streming des de Owncloud desde 2012
 
 - **Es poden connectar directoris de Google Drive a Owncloud?**
+Sí es poden connectar 
+
 - **I Dropbox?**
+
+Sí es poden connectar 
+
 - **Compta Owncloud amb antivirus? En cas afirmatiu com es diu?**
+
+Sí, Owncloud compta amb antivirus, es diu *"ClamAV"*
+
 
 **RESPOSTA**
 
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
 
-- Posa't una imatge d'usuari.
-- Afegeix el teu mail de l'Institut.
-- Canvia l'idioma a català.
-- Mostra la versió d'Owncloud instal·lada.
-
-**RESPOSTA**l·lada.
-
+1. Posa't una imatge d'usuari.
+2. Afegeix el teu mail de l'Institut.
+3. Canvia l'idioma a català.
+4. Mostra la versió d'Owncloud instal·lada.
 
 **RESPOSTA**
+
+
+
