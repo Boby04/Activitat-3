@@ -78,7 +78,6 @@ Sí es poden connectar
 Sí, Owncloud compta amb antivirus, es diu *"ClamAV"*
 
 
-**RESPOSTA**
 
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
 
@@ -89,7 +88,7 @@ Sí, Owncloud compta amb antivirus, es diu *"ClamAV"*
 
 **RESPOSTA**
 
-1.
+**1.**
 2.
 3.
 4.
