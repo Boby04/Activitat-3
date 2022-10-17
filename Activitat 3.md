@@ -66,6 +66,7 @@ La llicència per a Owncloud Standard és *"AGPLv3"*
 Sí, es poden veure videos en Streming des de Owncloud desde 2012
 
 - **Es poden connectar directoris de Google Drive a Owncloud?**
+
 Sí es poden connectar 
 
 - **I Dropbox?**
@@ -88,5 +89,9 @@ Sí, Owncloud compta amb antivirus, es diu *"ClamAV"*
 
 **RESPOSTA**
 
+1.
+2.
+3.
+4.
 
 
